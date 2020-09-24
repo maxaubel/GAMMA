@@ -1,4 +1,5 @@
-# Tarea 1
+# Gamma Correction
+Assignment
 
 ### Dependencias
 * OpenCV
