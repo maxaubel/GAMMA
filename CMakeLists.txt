@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.1)
+project( GAMMA)
+find_package( OpenCV REQUIRED )
+add_executable( GAMMA main.cpp )
+target_link_libraries( GAMMA ${OpenCV_LIBS} )
